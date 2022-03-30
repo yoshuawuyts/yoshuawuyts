@@ -31,4 +31,4 @@ Also on: [Website], [Twitter], [YouTube], and [Twitch].
 
 ## Support
 
-If you like what I'm working on, you're welcome to [support my work](https://github.com/sponsors/yoshuawuyts) via GitHub sponsors.
+If you like what I'm working on, please consider [supporting my work](https://github.com/sponsors/yoshuawuyts) via GitHub sponsors.
