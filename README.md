@@ -17,7 +17,6 @@ Also on: [Website], [Twitter], [YouTube], and [Twitch].
 - [futures-time](https://github.com/yoshuawuyts/futures-time) - time, concurrency, and cancellation extensions for async Rust
 - [async-broadcast](https://github.com/smol-rs/async-broadcast) - broadcast channels for async Rust.
 - [parallel-stream](https://github.com/async-rs/parallel-stream) - parallel iteration for async Rust.
-- [async-task-group](https://github.com/yoshuawuyts/async-task-group) - manage groups of `async-std` tasks as a single unit.
 
 ## Rust web programming
 
