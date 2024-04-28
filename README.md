@@ -1,5 +1,5 @@
 Concurrent Computing ←<br/>
-PL Design ←<br/>
+Programming Language Design ←<br/>
 Rust and WebAssembly at Microsoft ←<br/>
 Enthusiast Cook ←
 
