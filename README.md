@@ -2,6 +2,6 @@
 
 Concurrent Computing ←<br/>
 Programming Language Design ←<br/>
-Rust and WebAssembly at Microsoft ←
+WebAssembly and Rust at Microsoft ←
 
 u(๑╹ᆺ╹)
